@@ -1,1 +1,1 @@
-git commit "pull"
+git pull
