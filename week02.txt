@@ -16,4 +16,3 @@ week02
 	git remote -v
 	git push -u origin main
 	git clone (link)
-	git clone (link) .
