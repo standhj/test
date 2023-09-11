@@ -4,6 +4,7 @@ week02
 	git init
 	git status
 	git add week01.txt
+	git add .
 	git config --global user.email "your@example.com"
 	git config --global user.name "your name"
 	git commit -m "v0"
@@ -14,3 +15,5 @@ week02
 	git remote add origin https://github.com/standhj/test.git
 	git remote -v
 	git push -u origin main
+	git clone (link)
+	git clone (link) .
